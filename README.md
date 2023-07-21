@@ -1,7 +1,8 @@
-This project was bootstrapped with [Create React App]
+# This project was bootstrapped with [Create React App]
 
-Demo Link - http://pranaybedekar.github.io/Typing-Speed-Checker/
-Typing Master
+# Demo Link - http://pranaybedekar.github.io/Typing-Speed-Checker/
+
+# Typing Master
 The Typing Speed Checker is a user-friendly and engaging application designed to help users evaluate and improve their typing skills efficiently. Whether you are a seasoned typist looking to enhance your speed or a beginner eager to learn touch typing, this application is the perfect tool for you.
 
 Key Features:
