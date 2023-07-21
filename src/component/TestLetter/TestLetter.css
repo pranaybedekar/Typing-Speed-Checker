@@ -1,0 +1,23 @@
+.test-letter {
+    font-size: 15px;
+    line-height: 19px;
+}
+
+.test-letter-not-attempted {
+    color: #4b0cb1;
+}
+
+.test-letter-incorrect {
+    color: red;
+}
+
+.test-letter-correct {
+    color: green;
+}
+
+@media screen and (max-width: 800px) {
+    .test-letter {
+        font-size: 11px;
+        line-height: 15px;
+    }
+}
